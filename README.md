@@ -1,2 +1,3 @@
 # Hello-World
-Repostiory to play with the tool and learn
+Repository to play with the tool and learn
+Fixed my spelling mistake
